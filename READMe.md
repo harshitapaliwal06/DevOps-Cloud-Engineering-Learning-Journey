@@ -23,7 +23,7 @@ one topic at a time.
 
 | Day | Date | Topic | Notes |
 |-----|------|-------|-------|
-| 01 | - | Networking Basics (Revision) | [View](./day1/networking.md) |
+| 01 | - | Linux  | [View](./day1/linux.md) |
 
  *(Updated regularly — new entries added as I learn)*
 
