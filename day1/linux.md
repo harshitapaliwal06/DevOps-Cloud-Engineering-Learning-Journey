@@ -1,18 +1,7 @@
-# Day 05 — Linux User Management & File Permissions
+# Day 01 — Linux User Management & File Permissions
 
-## 1. Shell & Subshell Basics
-- **Shell variables** created in a terminal exist only in that terminal session
-- **Subshell** — a child shell process that stores Linux commands; variables created in a subshell don't persist outside it
-- **Mathematical operations** use the `expr` command:
-```bash
-  expr 10 + 2
-  expr 10 - 2
-  expr 10 / 2
-```
-  Note: `*` (multiplication) needs to be escaped as `\*`, otherwise the shell interprets it as a wildcard
-
----
-
+## 1. To view content 
+ls 
 ## 2. User Management
 
 ### Types of Users
