@@ -7,7 +7,7 @@
 - `ls -l` list with info
 - `ls -lh` list with info in human readable form
 - `ls -lt` list ( sorted based on time )
-- `ls -lZ` view hidden files 
+- `ls -a` view hidden files
 
 ### User Management
 
