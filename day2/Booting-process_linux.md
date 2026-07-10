@@ -49,7 +49,7 @@
 
 ---
 
-### GRUB (GRAND Unified Bootloader)
+### GRUB (GRand Unified Bootloader)
 - Default bootloader for most Linux distributions
 - Loads the kernel, initramfs, and provides a recovery mode
 
