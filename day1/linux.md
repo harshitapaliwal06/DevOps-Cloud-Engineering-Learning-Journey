@@ -62,7 +62,7 @@ Used to delete users.
 
 ## Password policies 
 ### **password aging**
-    **`chage` — Change Age of Password**
+`chage` — Change Age of Password 
 Manages password expiry policies.
 
 - `-l username` display password aging details
