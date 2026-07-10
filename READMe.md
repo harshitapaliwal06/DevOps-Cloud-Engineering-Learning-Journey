@@ -24,7 +24,7 @@ one topic at a time.
 | Day | Date | Topic | Notes |
 |-----|------|-------|-------|
 | 01 | 8-7-26 | Linux  | [View](./day1/linux.md) |
-| 02 | 9-7-26 | networking basics , linux | [view](./day2/networking-basics.md) \| [view](./day2/linux.md)|
+| 02 | 9-7-26 | networking basics , linux | [view](./day2/Networking-basics.md) \| [view](./day2/linux.md)|
 
 
  *(Updated regularly — new entries added as I learn)*
