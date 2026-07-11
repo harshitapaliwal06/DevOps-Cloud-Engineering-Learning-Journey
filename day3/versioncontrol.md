@@ -85,7 +85,7 @@ Working Directory - git add - Staging Area - git commit - Local Repo - git push 
 - **Override priority:** local > global > system
 - `git config --list` — check current configuration
 - `git config --global --unset user.name` — remove a global config value
-- git config --global --unset user.email` — remove a global config value
+- `git config --global --unset user.email` — remove a global config value
   (after unset delink credentials)
 - `git config --global core.editor "code"` — sets VS Code as the default editor for commit messages
 - `git config --global color.ui auto` — enables color-coded output for status/diff
