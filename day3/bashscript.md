@@ -60,6 +60,7 @@
   - `$1` — first argument passed to the script (path to back up)
   - `$2` — second argument passed to the script (backup destination)
   - Example run: `bash backup.sh /path/to/backup /path/to/location`
+![backup script](images/backupscript.png)
 
 ---
 
@@ -84,6 +85,7 @@
 - `fi` — closes the if block
 - Spacing inside `[ ]` matters in bash (space is required around brackets and condition)
 - Example: `if [ $myvar -lt 300 ]; then echo "condition true"; else echo "condition false"; fi`
+![example if condition](images/If_condition.png)
 
 **Comparison operators:**
 - `-eq` equal
@@ -128,6 +130,8 @@
 ### Checking If a Command Exists
 - Used to check whether a tool/command is available before using it in a script
 - Example: `if command -v curl &> /dev/null; then echo "curl is available"; fi`
+![check if command exists](images/check-command-existence.png)
+![check if exists ,install if not](images/check-install.png)
 
 ### Using Conditions to Check User Input
 - Scripts can check arguments passed by the user to decide which action to run
