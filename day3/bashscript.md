@@ -85,7 +85,9 @@
 - `fi` — closes the if block
 - Spacing inside `[ ]` matters in bash (space is required around brackets and condition)
 - Example: `if [ $myvar -lt 300 ]; then echo "condition true"; else echo "condition false"; fi`
-![example if condition](images/If_condition.png)
+  
+
+![if condition example](images/If_condition.png)
 
 **Comparison operators:**
 - `-eq` equal
