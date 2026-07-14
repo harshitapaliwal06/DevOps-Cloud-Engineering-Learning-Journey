@@ -136,4 +136,4 @@
 - `{}` — brace expansion
 
 ---
-**Takeaway:** Covered file compression and archiving (gzip, bzip2, xz, zip, tar), stream redirection (stdout/stderr/stdin), pipes for chaining commands, and essential text-processing commands (cat, head, tail, sort, uniq, cut, grep, etc.) along with wildcard basics — all core skills for handling files and automating tasks efficiently in Linux.
+**Takeaway:** Covered file compression and archiving (gzip, bzip2, xz, zip, tar), stream redirection (stdout/stderr/stdin), pipes for chaining commands, and essential text-processing commands 
