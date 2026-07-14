@@ -26,7 +26,7 @@ one topic at a time.
 | 01 | 8-7-26 | Linux -1   | [View](./day1/linux.md) |
 | 02 | 9-7-26 | networking basics , Linux-2 | [view(networking)](./day2/Networking-basics.md ) \| [view(linux)](./day2/linux2.md) \| [view(booting)](./day2/Booting-process_linux.md) |
 | 03 | 10-8-26 | Bash Script-1 , version control | [view(Bash script)](./day3/bashscript.md ) \| [view(version control)](./day3/versioncontrol.md) 
-| 04 | 14-8-26 | linux-3 , | [view(Linux3)](./day4/linux3.md)
+| 04 | 14-8-26 | linux-3 , aws  | [view(Linux3)](./day4/linux3.md) \| [view(aws-1)](./day4/cloud-aws.md) 
 
 
  *(Updated regularly — new entries added as I learn)*
