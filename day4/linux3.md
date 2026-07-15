@@ -16,7 +16,7 @@
   - `gzip -1` — fastest speed, lowest compression (minimum)
   - `gzip -6` — default level
   - `gzip -9` — highest compression, slowest speed (maximum)
-- `gunzip file.tar.gz` or `gzip -d file.gz` — decompress
+- `gunzip file.gz` or `gzip -d file.gz` — decompress
 - `gzip -t file` — test file integrity
 - `gzip -l` — list info (original size, compressed size, ratio)
 
