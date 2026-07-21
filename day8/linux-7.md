@@ -6,8 +6,7 @@
 - Two or more devices connected together so that they can communicate (exchange data) using agreed protocols
 
 ### Network Types (by Range)
-| — | — |
-|---|---|
+
 - **PAN (Personal Area Network)** — 1-10 meters
 - **LAN (Local Area Network)** — limited to office/geographic area
 - **MAN (Metropolitan Area Network)** — connects multiple LANs across a city or metropolitan area
